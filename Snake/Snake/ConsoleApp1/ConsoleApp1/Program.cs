@@ -13,11 +13,11 @@ namespace ConsoleApp1
             Point p1 = new Point();
             Point p2 = new Point();
 
-            p1.x = 1;
-            p1.y = 3;
+            p1.x = 2;
+            p1.y = 4;
             p1.sym = '*';
 
-            p2.x = 4;
+            p2.x = 5;
             p2.y = 5;
             p2.sym = '#';
 
